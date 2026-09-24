@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://YOUR-DOMAIN.com/</loc>
+    <loc>https://tnhappykids-pt6z.vercel.app/</loc>
   </url>
 
   <url>
-    <loc>https://YOUR-DOMAIN.com/about</loc>
+    <loc>https://tnhappykids-pt6z.vercel.app/about</loc>
   </url>
 
   <url>
-    <loc>https://YOUR-DOMAIN.com/programs</loc>
+    <loc>https://tnhappykids-pt6z.vercel.app/programs</loc>
   </url>
 
   <url>
-    <loc>https://YOUR-DOMAIN.com/activities</loc>
+    <loc>https://tnhappykids-pt6z.vercel.app/activities</loc>
   </url>
 
   <url>
-    <loc>https://YOUR-DOMAIN.com/facilities</loc>
+    <loc>https://tnhappykids-pt6z.vercel.app/facilities</loc>
   </url>
 
   <url>
-    <loc>https://YOUR-DOMAIN.com/gallery</loc>
+    <loc>https://tnhappykids-pt6z.vercel.app/gallery</loc>
   </url>
 
   <url>
-    <loc>https://YOUR-DOMAIN.com/contact</loc>
+    <loc>https://tnhappykids-pt6z.vercel.app/contact</loc>
   </url>
 
   <url>
-    <loc>https://YOUR-DOMAIN.com/admission</loc>
+    <loc>https://tnhappykids-pt6z.vercel.app/admission</loc>
   </url>
 
 </urlset>
