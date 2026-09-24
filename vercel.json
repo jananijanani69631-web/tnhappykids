@@ -1,8 +1,32 @@
 {
   "rewrites": [
     {
-      "source": "/((?!api|assets|.*\\..*).*)",
-      "destination": "/index.html"
+      "source": "/about",
+      "destination": "/"
+    },
+    {
+      "source": "/programs",
+      "destination": "/"
+    },
+    {
+      "source": "/activities",
+      "destination": "/"
+    },
+    {
+      "source": "/facilities",
+      "destination": "/"
+    },
+    {
+      "source": "/gallery",
+      "destination": "/"
+    },
+    {
+      "source": "/contact",
+      "destination": "/"
+    },
+    {
+      "source": "/admission",
+      "destination": "/"
     }
   ]
 }
